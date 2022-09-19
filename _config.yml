@@ -13,7 +13,7 @@ bibtex_bibfiles:
    - _bibliography/references.bib
 
 repository:
-  url: https://github.com/kirenz/
+  url: https://github.com/kirenz/om2-ws22
   branch: main
 
 html:
