@@ -11,7 +11,6 @@ A typical project looks something like this {cite:p}`Wickham2016`:
 :align: center
 ```
 
-Surrounding all these steps is programming and the usage of different tools like Visual Studio Code, Jupyter Notebooks, Anaconda and GitHub. You’ll use these tools in almost every data science project and this book will give you a short introduction into the most important basics. 
 
 ---
 
